@@ -6,5 +6,5 @@ Mappings of first name to gender have been widely recognized as a critical tool 
 
 ### Main finding:
 <p align="center">
-  <img src="3-label-cat.png" width="100%" title="Broken Container">
+  <img src="3-label-cat.png" width="100%" title="Table 5">
 </p>
